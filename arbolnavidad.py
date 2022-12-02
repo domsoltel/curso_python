@@ -53,9 +53,6 @@ for i in range(17,20):
         x = 30*j
         square.goto(x,-y+280)
         square.stamp()
-        square.goto(-x,-y+280)
-        square.stamp()        
-        
 turtle.exitonclick()
 
-print("prueba")
+print("lolil")
