@@ -54,5 +54,3 @@ for i in range(17,20):
         square.goto(x,-y+280)
         square.stamp()
 turtle.exitonclick()
-
-print("lolil")
