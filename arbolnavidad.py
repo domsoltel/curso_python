@@ -57,3 +57,5 @@ for i in range(17,20):
         square.stamp()        
         
 turtle.exitonclick()
+
+print("prueba")
